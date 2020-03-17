@@ -1,0 +1,55 @@
+a.linkTable {
+  margin: 5px;
+  color: #fff;
+  background: rgb(30, 171, 236);
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 5px;
+  transition: all 0.2s;
+  margin-left: 2px;
+}
+
+a.linkTable:hover {
+  background: #fff;
+  color: #111;
+  text-decoration: none;
+}
+
+table {
+  margin-top: 10px;
+}
+
+.btnProAnt {
+  display: flex;
+  justify-content: space-between;
+}
+
+p.footerPage {
+  margin: 5px;
+  color: #fff;
+  background: #343a40;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 5px;
+  margin-bottom: 5px;
+  transition: all 0.2s;
+  margin-left: 2px;
+}
+
+div.total {
+  display: flex;
+  justify-content: space-between;
+  background: #009933;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+div.total strong {
+  color: #fff;
+  font-size: 20px;
+}
+
+div.total strong small {
+  font-weight: bold;
+  font-size: 20px;
+}
